@@ -111,7 +111,7 @@ button {
 .doing { background: #e8f5e9; } 
 .done { background: #ffebee; }  
 .task {
-  background: white;
+  background: #b7e1ff;
   padding: 8px;
   margin-bottom: 10px;
   border-radius: 6px;
